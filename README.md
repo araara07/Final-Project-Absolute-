@@ -1,5 +1,5 @@
 # Final-Project-Absolute-
-Berdasarkan data EDA yang telah dilakukan, dapat diketahui bahwa:
+Berdasarkan EDA yang telah dilakukan, dapat diketahui bahwa:
 
 1.Dari 12 pekerjaan, blue-collar adalah yang terbanyak
 
