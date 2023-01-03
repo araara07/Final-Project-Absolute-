@@ -37,3 +37,27 @@ What we have done on this stage:
 -Feature Selection
 
 -Feature Extraction
+
+
+# Stage 3 - Modeling and Evaluation
+Stage 3 is a step where we tested our data train to machine learning model and evaluated it. On this stage we created 7 different preprocessing treatment on datasets. We tested it to 5 different models: logistic regression, decision tree, random forest, XGBoost and AdaBoost. The objective of it's action is at the end of this stage we couldn't only know which the better model also the better preprocessing treatment on dataset. As we know, in data science everything is experimental, so we did it to get the better result.
+
+What we have done on this stage:
+
+-Preprocessing Data
+
+-Splitting Data (Data Train and Data Test)
+
+-Feature Engineering
+
+-Model Testing
+
+-Tuning Hyperparameters and feature selection
+
+-Model Selection
+
+-Evaluation most impacful/influence to model output using shap library
+
+
+# Stage 4 - Final Presentation Material
+Based on our project's result, out best model is AdaBoost with accuracy score 90% and precision score 55%. Our model performance could increase deposito subscribe rate  by 0.87x.
