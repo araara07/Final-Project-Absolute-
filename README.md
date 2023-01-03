@@ -6,10 +6,15 @@ Stage 0 is an early stage where we implemented 'ask' in data life cycle. There a
 
 # Stage 1 - Exploratory Data Analysis
 Stage 1 is a next step that we focused on gathering insights from statistical views.
+
 What we have done on this stage:
+
 -Descriptive Analysis
+
 -Univariate Analysis
+
 -Multivariate Analysis
+
 -Business Insight As Business Recommendation
 
 # Stage 2 - Preprocessing Data
@@ -18,10 +23,17 @@ Stage 2 is another next step that we did manipulation on data before it is used 
 What we have done on this stage:
 
 -Handle Missing Values
+
 -Handle Duplicated Data
+
 -Handle Outliers
+
 -Feature Transformation
+
 -Feature Encoding
+
 -Handle Class Imbalance
+
 -Feature Selection
+
 -Feature Extraction
