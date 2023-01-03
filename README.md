@@ -1,6 +1,24 @@
 # Final-Project-Absolute-
 The data is related with direct marketing campaigns of a Portuguese banking institution. The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be ('yes') or not ('no') subscribed.
 
+# Bank Client Data
+1 age (numeric)
+
+2 job : type of job (categorical: 'admin.','blue-collar','entrepreneur','housemaid','management','retired','self-employed','services','student','technician','unemployed','unknown')
+
+3 marital : marital status (categorical: 'divorced','married','single','unknown'; note: 'divorced' means divorced or widowed)
+
+4 education (categorical: 'basic.4y','basic.6y','basic.9y','high.school','illiterate','professional.course','university.degree','unknown')
+
+5 default: has credit in default? (categorical: 'no','yes','unknown')
+
+6 housing: has housing loan? (categorical: 'no','yes','unknown')
+
+7 loan: has personal loan? (categorical: 'no','yes','unknown')
+
+8 balance: average yearly balance, in euros (numeric)
+
+
 # Stage 0 - Project Background
 Stage 0 is an early stage where we implemented 'ask' in data life cycle. There are details about our role, problem statement, goal, objective and business metrics of our project.
 
