@@ -98,4 +98,4 @@ What we have done on this stage:
 
 
 # Stage 4 - Final Presentation Material
-Based on our project's result, out best model is AdaBoost with accuracy score 90% and precision score 55%. Our model performance could increase deposito subscribe rate  by 0.87x.
+Based on our project's result, out best model is XGBoost with accuracy score 90% and precision score 55%. Our model performance could increase deposito subscribe rate  by 0.87x.
